@@ -1,0 +1,198 @@
+185.0, 14.0, 50.0, 24.090081969909246
+185.0, 14.0, 50.0, 24.090081969909246
+2023-01-11 20:43:23.970346, 205.0, 15.0, 60.0, 39.92449041517438
+2023-01-12 18:22:58.838724, 502.00, 88.00, 56.00, 1115.61
+Date:2023-01-12 18:25:23.057410, Tire width: 251.00, Tire diameter: 48.00, Tire Ratio: 65.00, 177.84
+Date:2023-01-12 18:27:22.728094,
+ Tire width: 45.00,
+ Tire diameter: 65.00, 
+Tire Ratio: 895.00, 
+116.94
+Date:2023-01-12 18:28:55.739760,Client Name: Nahim
+ Tire width: 78.00,
+ Tire diameter: 89.00, 
+Tire Ratio: 58.00, 
+25.56
+Date:2023-01-12 18:30:11.967638,
+Client Name: Herendira
+Tire width: 78.00,
+Tire diameter: 56.00,
+Tire Ratio: 58.00,
+16.27
+Date:2023-01-12 18:31:19.698947,
+Client Name: Maria
+Tire width: 78.00,
+Tire diameter: 69.00,
+Tire Ratio: 58.00,
+The Volume in liters is: 19.93
+Date:2023-01-12 18:33:37.191877
+Client Name: Samanta
+Tire width: 45.00
+Tire diameter: 35.00
+Tire Ratio: 89.00
+The Volume in liters is: 5.26
+
+Date:2023-01-12 18:34:35.597766
+Client Name: Alan
+Tire width: 89.00
+Tire diameter: 78.00
+Tire Ratio: 45.00
+The Volume in liters is: 22.63
+
+Date:2023-01-12 18:35:35.127736
+Client Name: Josue Baez
+Tire width: 78.00
+Tire diameter: 89.00
+Tire Ratio: 56.00
+The Volume in liters is: 24.66
+
+Date:2023-01-12
+Client Name: Nahim Gomez
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: Josue
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: Ana
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: Smanta
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: Maria
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: mariana
+Tire width: 185.00
+Tire diameter: 14.00
+Tire Ratio: 60.00
+The Volume in liters is: 30.10
+
+Date:2023-01-12
+Client Name: Dora
+Tire width: 185.00
+Tire diameter: 14.00
+Tire Ratio: 60.00
+The Volume in liters is: 30.10
+
+Date:2023-01-12
+Client Name: Samanta
+Tire width: 205.00
+Tire diameter: 14.00
+Tire Ratio: 60.00
+The Volume in liters is: 37.91
+
+Date:2023-01-12
+Client Name: Clara
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 65.00
+The Volume in liters is: 44.13
+
+Date:2023-01-12
+Client Name: KArina
+Phone Number: Phone Number: 
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: mariana
+Phone Number: Phone Number: 
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-12
+Client Name: hilda
+Phone Number: Phone Number: 
+Tire width: 205.00
+Tire diameter: 14.00
+Tire Ratio: 65.00
+The Volume in liters is: 41.95
+
+Date:2023-01-12
+Client Name: Elba
+Phone Number: 385 369
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-15
+Client Name: cdcd
+Phone Number: <class 'str'>
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-01-15
+Client Name: fdfd
+Phone Number: 565656
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-03-10
+Client Name: herendira
+Phone Number: 41836995
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-03-10
+Client Name: jojo
+Phone Number: 854685
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-03-10
+Client Name: oioio
+Phone Number: 78787878
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-03-10
+Client Name: trtrt
+Phone Number: 985632
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92
+
+Date:2023-03-10
+Client Name: juhgf
+Phone Number: 875326
+Tire width: 205.00
+Tire diameter: 15.00
+Tire Ratio: 60.00
+The Volume in liters is: 39.92

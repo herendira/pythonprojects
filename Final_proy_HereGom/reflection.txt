@@ -1,0 +1,33 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+This semester I learned that functions especially help us to have a program that is more readable, organized, clean and easy to understand, for both, the user and for the language that processes it.
+It was very surprising to me, the role that functions can play.  They help to search accurate information in large files. Chemistry.py program, showed me, the amount of information parameters can contain. This program asked the user for a formula and it was searched in the Dictionary, through variables that called another function, and they (functions) searched for the formula with the help of the for loop.
+With this exercise I was able to realize the power of search and delivery of results that function does.
+
+2. In your judgment, what is the value of test functions?
+I believe test functions have a primary value in the structure of a program.
+They help the programmer to know if the program is generating only the expected results. They help reduce trial and error times, where I think, we spend more time at that phase, than at the phase of writing code. Also, they help to detect logical errors, in less time. Indeed, detect what line of code is the error in.
+It assures the programmer that his program will always generate correct results.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+While I was studying in Mexico, a teacher told us this advice: "Divide and conquer." When I started
+Python, a teacher told us: "Go back to the beginning and make it easy." These two advices have helped me to find errors in my code.
+The Python Debugger tool helps to know in which line the error is. It tells us what values are
+saved in the variables and that way, is where we can exactly know what went wrong.
+The debugger has the ability to enter a loop or an if statement or to skip it if we indicate it.
+Another quick thing I do is print a certain variable to see if it has the correct value.
+
+Something I can do to improve my error detection process is to improve my logical thinking when planning my program.
+In my final project I had several errors because I underestimated how easy it was. In the end, I had to go back, from the beginning, to figure it out where my error was. That make me remember the advice that was given at the beginning, so I divide my code and found the problem.  
+
+
+
+If the path of the functions could be drawn, they would be like perfect large and small loops interconnected with each other. There could be a beginning and an end at some point, but it would be easy to say that its cycle is infinite.
+
+By Herendira Gomez
+
+
